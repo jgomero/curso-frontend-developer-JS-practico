@@ -70,6 +70,7 @@ function openProductDetailAside() {
 function closeProductDetailAside(){
     productDetailContainer.classList.add("inactive");
 };
+//test
 
 const productlist = [];
 productlist.push({
